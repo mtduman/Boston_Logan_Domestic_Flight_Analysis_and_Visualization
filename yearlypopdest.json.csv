@@ -1,0 +1,211 @@
+,Year,Dest,Fcount,airport,city,state,country,lat,lon
+0,1988,LGA,10898,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+21,1988,DCA,8084,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+42,1988,EWR,8076,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+63,1988,PHL,6959,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+84,1988,ORD,6236,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+105,1988,ATL,4153,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+125,1988,DFW,2963,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+142,1988,PIT,2950,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
+150,1988,BWI,2786,Baltimore-Washington International,Baltimore,MD,USA,39.17540167,-76.66819833
+160,1988,JFK,2584,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
+1,1989,LGA,8046,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+22,1989,DCA,6854,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+43,1989,EWR,6793,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+64,1989,PHL,5640,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+85,1989,ORD,5116,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+106,1989,ATL,3690,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+126,1989,DFW,3109,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+151,1989,BWI,2784,Baltimore-Washington International,Baltimore,MD,USA,39.17540167,-76.66819833
+169,1989,CLE,2686,Cleveland-Hopkins Intl,Cleveland,OH,USA,41.41089417,-81.84939667
+143,1989,PIT,2662,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
+23,1990,DCA,8995,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+44,1990,EWR,7768,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+2,1990,LGA,5641,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+65,1990,PHL,5608,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+107,1990,ATL,5161,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+86,1990,ORD,5087,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+127,1990,DFW,3136,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+170,1990,CLE,2933,Cleveland-Hopkins Intl,Cleveland,OH,USA,41.41089417,-81.84939667
+172,1990,MIA,2849,Miami International,Miami,FL,USA,25.79325,-80.29055556
+144,1990,PIT,2707,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
+24,1991,DCA,7801,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+45,1991,EWR,7761,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+87,1991,ORD,5677,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+3,1991,LGA,5462,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+66,1991,PHL,5262,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+128,1991,DFW,3108,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+108,1991,ATL,2805,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+171,1991,CLE,2616,Cleveland-Hopkins Intl,Cleveland,OH,USA,41.41089417,-81.84939667
+174,1991,MCO,2585,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778
+173,1991,MIA,2535,Miami International,Miami,FL,USA,25.79325,-80.29055556
+25,1992,DCA,9577,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+46,1992,EWR,9347,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+88,1992,ORD,6027,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+4,1992,LGA,5373,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+67,1992,PHL,4895,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+175,1992,MCO,3397,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778
+129,1992,DFW,3185,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+109,1992,ATL,2841,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+145,1992,PIT,2548,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
+182,1992,DTW,2499,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583
+47,1993,EWR,8774,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+26,1993,DCA,8430,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+89,1993,ORD,6400,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+5,1993,LGA,5613,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+68,1993,PHL,5148,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+110,1993,ATL,3801,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+130,1993,DFW,3484,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+176,1993,MCO,3182,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778
+183,1993,DTW,2772,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583
+146,1993,PIT,2510,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
+48,1994,EWR,8898,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+27,1994,DCA,8518,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+90,1994,ORD,7147,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+6,1994,LGA,5302,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+69,1994,PHL,5227,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+152,1994,BWI,4382,Baltimore-Washington International,Baltimore,MD,USA,39.17540167,-76.66819833
+131,1994,DFW,4131,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+111,1994,ATL,3205,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+184,1994,DTW,2952,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583
+147,1994,PIT,2942,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
+91,1995,ORD,8534,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+49,1995,EWR,6548,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+28,1995,DCA,6246,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+7,1995,LGA,5450,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+70,1995,PHL,5089,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+132,1995,DFW,4913,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+153,1995,BWI,3502,Baltimore-Washington International,Baltimore,MD,USA,39.17540167,-76.66819833
+148,1995,PIT,3252,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
+185,1995,DTW,3054,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583
+112,1995,ATL,2841,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+92,1996,ORD,9717,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+50,1996,EWR,6137,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+8,1996,LGA,5528,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+71,1996,PHL,5392,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+29,1996,DCA,5182,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+133,1996,DFW,4673,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+188,1996,IAD,3162,Washington Dulles International,Chantilly,VA,USA,38.94453194,-77.45580972
+186,1996,DTW,3160,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583
+149,1996,PIT,3044,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
+113,1996,ATL,2844,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+93,1997,ORD,10513,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+51,1997,EWR,6701,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+9,1997,LGA,6046,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+72,1997,PHL,5544,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+30,1997,DCA,5158,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+134,1997,DFW,4925,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+177,1997,MCO,4567,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778
+189,1997,IAD,3352,Washington Dulles International,Chantilly,VA,USA,38.94453194,-77.45580972
+187,1997,DTW,3145,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583
+198,1997,CLT,3120,Charlotte/Douglas International,Charlotte,NC,USA,35.21401111,-80.94312583
+94,1998,ORD,9659,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+52,1998,EWR,6048,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+73,1998,PHL,5554,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+10,1998,LGA,5368,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+190,1998,IAD,5158,Washington Dulles International,Chantilly,VA,USA,38.94453194,-77.45580972
+135,1998,DFW,4875,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+31,1998,DCA,4806,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+114,1998,ATL,3662,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+199,1998,CLT,3412,Charlotte/Douglas International,Charlotte,NC,USA,35.21401111,-80.94312583
+201,1998,SFO,3222,San Francisco International,San Francisco,CA,USA,37.61900194,-122.3748433
+95,1999,ORD,8959,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+191,1999,IAD,8121,Washington Dulles International,Chantilly,VA,USA,38.94453194,-77.45580972
+32,1999,DCA,5665,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+74,1999,PHL,5554,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+11,1999,LGA,5394,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+53,1999,EWR,5358,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+115,1999,ATL,5157,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+136,1999,DFW,4695,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+178,1999,MCO,4192,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778
+202,1999,SFO,3575,San Francisco International,San Francisco,CA,USA,37.61900194,-122.3748433
+96,2000,ORD,8431,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+12,2000,LGA,8266,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+33,2000,DCA,7143,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+192,2000,IAD,6822,Washington Dulles International,Chantilly,VA,USA,38.94453194,-77.45580972
+75,2000,PHL,5543,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+116,2000,ATL,5021,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+54,2000,EWR,4735,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+137,2000,DFW,4648,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+179,2000,MCO,4481,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778
+203,2000,LAX,3402,Los Angeles International,Los Angeles,CA,USA,33.94253611,-118.40807439999999
+13,2001,LGA,10131,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+34,2001,DCA,8065,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+97,2001,ORD,8018,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+76,2001,PHL,7143,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+55,2001,EWR,6098,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+117,2001,ATL,4289,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+138,2001,DFW,4177,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+180,2001,MCO,3920,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778
+161,2001,JFK,3813,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
+204,2001,LAX,3401,Los Angeles International,Los Angeles,CA,USA,33.94253611,-118.40807439999999
+14,2002,LGA,11305,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+98,2002,ORD,7942,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+77,2002,PHL,7004,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+35,2002,DCA,6672,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+56,2002,EWR,5561,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+139,2002,DFW,4014,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+118,2002,ATL,3689,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+162,2002,JFK,3604,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
+181,2002,MCO,3180,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778
+200,2002,CLT,2895,Charlotte/Douglas International,Charlotte,NC,USA,35.21401111,-80.94312583
+15,2003,LGA,12099,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+78,2003,PHL,8183,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+99,2003,ORD,7574,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+36,2003,DCA,6660,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+57,2003,EWR,6368,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+154,2003,BWI,4939,Baltimore-Washington International,Baltimore,MD,USA,39.17540167,-76.66819833
+119,2003,ATL,4757,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+163,2003,JFK,4290,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
+140,2003,DFW,3720,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+205,2003,BGR,3508,Bangor International,Bangor,ME,USA,44.80744444,-68.82813889
+16,2004,LGA,12971,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+37,2004,DCA,10114,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+79,2004,PHL,8274,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+100,2004,ORD,8024,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+58,2004,EWR,5374,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+193,2004,IAD,5296,Washington Dulles International,Chantilly,VA,USA,38.94453194,-77.45580972
+120,2004,ATL,5122,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+155,2004,BWI,5050,Baltimore-Washington International,Baltimore,MD,USA,39.17540167,-76.66819833
+141,2004,DFW,4239,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+164,2004,JFK,3899,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
+17,2005,LGA,12496,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+38,2005,DCA,10200,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+101,2005,ORD,7143,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+80,2005,PHL,6621,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+121,2005,ATL,5836,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+59,2005,EWR,5319,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+165,2005,JFK,4979,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
+156,2005,BWI,4879,Baltimore-Washington International,Baltimore,MD,USA,39.17540167,-76.66819833
+194,2005,IAD,4201,Washington Dulles International,Chantilly,VA,USA,38.94453194,-77.45580972
+206,2005,RDU,4004,Raleigh-Durham International,Raleigh,NC,USA,35.87763889,-78.78747222
+18,2006,LGA,11815,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+39,2006,DCA,9189,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+166,2006,JFK,8513,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
+102,2006,ORD,6922,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+81,2006,PHL,6660,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+157,2006,BWI,6482,Baltimore-Washington International,Baltimore,MD,USA,39.17540167,-76.66819833
+195,2006,IAD,6295,Washington Dulles International,Chantilly,VA,USA,38.94453194,-77.45580972
+122,2006,ATL,5600,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+60,2006,EWR,5284,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+207,2006,RDU,3897,Raleigh-Durham International,Raleigh,NC,USA,35.87763889,-78.78747222
+19,2007,LGA,11462,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+40,2007,DCA,8967,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+167,2007,JFK,7731,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
+103,2007,ORD,6996,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+82,2007,PHL,5794,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+123,2007,ATL,5612,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+158,2007,BWI,5427,Baltimore-Washington International,Baltimore,MD,USA,39.17540167,-76.66819833
+196,2007,IAD,4879,Washington Dulles International,Chantilly,VA,USA,38.94453194,-77.45580972
+61,2007,EWR,4034,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+208,2007,RDU,3921,Raleigh-Durham International,Raleigh,NC,USA,35.87763889,-78.78747222
+20,2008,LGA,11207,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+41,2008,DCA,8624,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+168,2008,JFK,7038,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
+104,2008,ORD,6739,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+83,2008,PHL,5994,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+124,2008,ATL,5903,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+159,2008,BWI,4650,Baltimore-Washington International,Baltimore,MD,USA,39.17540167,-76.66819833
+197,2008,IAD,4052,Washington Dulles International,Chantilly,VA,USA,38.94453194,-77.45580972
+62,2008,EWR,3744,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+209,2008,RDU,3687,Raleigh-Durham International,Raleigh,NC,USA,35.87763889,-78.78747222
